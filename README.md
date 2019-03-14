@@ -1,2 +1,2 @@
-# data-analytics
-Just a data analytics repository
+# analytics-arules
+Just an analytics arules repository
